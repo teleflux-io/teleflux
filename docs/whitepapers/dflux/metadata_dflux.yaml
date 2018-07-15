@@ -1,0 +1,78 @@
+---
+title: dFlux
+subtitle: Decentralized IoT telecom system
+author:
+  - name: DDD
+    affiliation: dFlux
+    email: <ddd@teleflux.com>
+  - name: Atillas
+    affiliation: dFlux
+    email: <atillas@teleflux.com>
+date: December 28, 2017
+colorlinks: true
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[CO,CE]{}
+  - \fancyfoot[CO,CE]{}
+  - \fancyfoot[LE,RO]{\thepage}
+  - \usepackage{fontawesome}
+  - \usepackage{tikz}
+  - \usetikzlibrary{calc}
+  - \usepackage{booktabs}
+  - \usepackage{tabularx}
+numbersections: true
+titlepage: true
+link-citations: true
+references:
+  - id: arm
+    title: "The Route to a Trillion Devices"
+    issued: 2018
+    author:
+      - family: ARM
+    URL: https://community.arm.com/iot/b/blog/posts/white-paper-the-route-to-a-trillion-devices
+  - id: mck
+    title: "The Innternet of Things - Mapping The Value Beyond The Hype"
+    issued: 2015
+    author:
+      - family: McKinsey Global Institute
+    URL: https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/the-internet-of-things-the-value-of-digitizing-the-physical-world
+  - id: bhz
+    title: "Blue Horizon"
+    author:
+      - family: IBM
+    URL: https://bluehorizon.network
+  - id: mfx
+    title: "Mainflux IoT Platform"
+    issued: 2015
+    author:
+      - family: Draskovic
+        given: Drasko
+      - family: Isidorovic
+        given: Janko
+      - family: Mijic
+        given: Dejan
+      - family: Marcetic
+        given: Nikola
+    URL: https://www.mainflux.com
+  - id: senml
+    title: "Media Types for Sensor Measurement Lists (SenML)"
+    issued: 2017
+    institute: Universitaet Bremen TZI
+    author:
+      - family: Jennings
+        given: Carl
+      - family: Shelby
+        given: Zach
+    URL: https://tools.ietf.org/html/draft-ietf-core-senml-12
+  - id: cbor
+    title: "Concise Binary Object Representation (CBOR)"
+    issued: 2017
+    institute: Universitaet Bremen TZI
+    author:
+      - family: Bormann
+        given: Carl
+      - family: Hoffman
+        given: Peter
+    URL: https://tools.ietf.org/html/rfc7049
+---
