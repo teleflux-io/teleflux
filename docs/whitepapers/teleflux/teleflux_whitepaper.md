@@ -50,6 +50,7 @@ decentralized edge computing platform and microservice marketplace for enabling 
 network edge HW access and specialized system application development.
 
 Teleflux is a complex system, devided in several subsytems:
+
 - dFlux - decentralized IoT platform SW
 - dTS - decentralized telecom base station, edge gateway and connectivity system
 - dEdge - decentralized edge computing platform
