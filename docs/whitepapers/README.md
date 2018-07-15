@@ -1,5 +1,5 @@
 # Teleflux Whitepapers
-Whitepapers of Teleflux system and it's subsystems.
+Whitepapers of Teleflux system and its subsystems.
 
 ## Teleflux
 ```bash
